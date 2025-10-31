@@ -16,7 +16,7 @@
   </Hotel>
 
   <Hotel Rating="4.5" NearestAirport="Sky Harbor">
-    <Name>Hyatt</Name>
+    <Name>Hyatt Place Tempe / Phoenix Airport</Name>
     <Phone>480-804-9544</Phone>
     <Address>
       <Number>1413</Number>
@@ -28,7 +28,7 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-    <Name>Graduate</Name>
+    <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
       <Number>225</Number>
@@ -40,7 +40,7 @@
   </Hotel>
 
   <Hotel Rating="4.6" NearestAirport="Sky Harbor">
-    <Name>MissionPalms</Name>
+    <Name>Tempe Mission Palms Hotel</Name>
     <Phone>480-894-1400</Phone>
     <Phone>800-547-8705</Phone>
     <Address>
@@ -53,7 +53,7 @@
   </Hotel>
 
   <Hotel Rating="4.4">
-    <Name>Canopy</Name>
+    <Name>Canopy by Hilton Tempe Downtown</Name>
     <Phone>480-968-8888</Phone>
     <Address>
       <Number>108</Number>
@@ -65,7 +65,7 @@
   </Hotel>
 
   <Hotel Rating="4.0" NearestAirport="Sky Harbor">
-    <Name>Aloft</Name>
+    <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
     <Address>
       <Number>951</Number>
@@ -77,7 +77,7 @@
   </Hotel>
 
   <Hotel Rating="4.1">
-    <Name>Courtyard</Name>
+    <Name>Courtyard by Marriott Tempe Downtown</Name>
     <Phone>480-966-2800</Phone>
     <Address>
       <Number>601</Number>
@@ -89,7 +89,7 @@
   </Hotel>
 
   <Hotel Rating="4.7" NearestAirport="Sky Harbor">
-    <Name>Omni</Name>
+    <Name>Omni Tempe Hotel at ASU</Name>
     <Phone>602-794-8600</Phone>
     <Address>
       <Number>7</Number>
@@ -101,7 +101,7 @@
   </Hotel>
 
   <Hotel Rating="4.3">
-    <Name>Hilton</Name>
+    <Name>Hilton Garden Inn Phoenix/Tempe ASU Area</Name>
     <Phone>480-968-1328</Phone>
     <Address>
       <Number>720</Number>
@@ -113,7 +113,7 @@
   </Hotel>
 
   <Hotel Rating="3.9" NearestAirport="Phoenix-Mesa Gateway">
-    <Name>Hampton</Name>
+    <Name>Hampton Inn &amp; Suites Phoenix Tempe</Name>
     <Phone>480-410-6440</Phone>
     <Phone>800-426-7866</Phone>
     <Address>
