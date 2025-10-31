@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           elementFormDefault="qualified">
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
 
   <xs:element name="Hotels">
     <xs:complexType>
@@ -22,6 +23,7 @@
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
+
             <xs:attribute name="Rating" type="xs:decimal" use="required"/>
             <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
           </xs:complexType>
