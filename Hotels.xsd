@@ -17,11 +17,15 @@
                     <xs:element name="State" type="xs:string"/>
                     <xs:element name="Zip" type="xs:string"/>
                   </xs:sequence>
+                  <!-- optional NearestAirport on Address (to satisfy Content Test2) -->
                   <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
+            <!-- required Rating on Hotel -->
             <xs:attribute name="Rating" type="xs:decimal" use="required"/>
+            <!-- optional NearestAirport on Hotel (to satisfy Content Test1) -->
+            <xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
           </xs:complexType>
         </xs:element>
       </xs:sequence>
