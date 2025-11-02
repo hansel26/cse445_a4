@@ -16,19 +16,7 @@
     </Address>
   </Hotel>
 
-  <!-- Valid-ish for context -->
-  <Hotel Rating="4.5" NearestAirport="Sky Harbor">
-    <Name>Hyatt Place Tempe / Phoenix Airport</Name>
-    <Phone>480-804-9544</Phone>
-    <Phone>888-591-1234</Phone>
-    <Address>
-      <Number>1413</Number>
-      <Street>W Rio Salado Pkwy</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
-  </Hotel>
+
 
   <!-- Error #3: Missing Phone element -->
   <Hotel Rating="4.3">
